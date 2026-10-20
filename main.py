@@ -36,7 +36,7 @@ from telegram.ext import (
 # BotFather-dən aldığın tokeni dırnaqların içinə yaz
 TOKEN="8806349684:AAEHLZMVYODXXBGEmdXba6Ik3Mbm2IBF1Ls"
 
-DAILY_LIMIT = 15              # hər nəfərə gündə neçə mahnı
+DAILY_LIMIT = 16              # hər nəfərə gündə neçə mahnı
 MAX_SIZE = 50 * 1024 * 1024   # Telegram bot limiti: 50 MB
 USAGE_FILE = "usage.json"     # gündəlik limitlər
 CACHE_FILE = "cache.json"     # video id -> Telegram file_id (sürət üçün)
